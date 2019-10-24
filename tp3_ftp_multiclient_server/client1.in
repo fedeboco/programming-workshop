@@ -1,0 +1,12 @@
+USER admin
+PASS l33tP4s5
+LIST
+MKD baz
+MKD lalala
+LIST
+RMD bar
+RMD baz
+RMD bar con espacios y un poco mas
+RMD lalala
+LIST
+QUIT

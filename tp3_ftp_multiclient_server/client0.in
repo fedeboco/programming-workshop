@@ -1,0 +1,11 @@
+USER admin
+PASS l33tP4s5
+LIST
+MKD foo
+MKD bar
+MKD bar con espacios
+MKD unDirectorioConUnNombreBastanteLargoPeroNoTanto
+LIST
+RMD foo
+LIST
+QUIT
